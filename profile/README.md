@@ -1,4 +1,4 @@
-# Octofish - Optimaze Seller App
+# Octofish - Optimize Seller App
 
 Welcome to the Octofish repository, a capstone project from Bangkit Academy 2023 that aims to develop a modern and efficient fish selling application. This application is designed to make it easier for fish sellers to sell their fish.
 
@@ -20,7 +20,6 @@ Welcome to the Octofish repository, a capstone project from Bangkit Academy 2023
 - **Service:**
     - App Engine
     - Cloud Run
-    - Firebase Cloud Messaging
 - **Database:** 
     - Cloud SQL
 - **Storage:** 
@@ -35,6 +34,7 @@ The Octofish development team consists of participants from Bangkit Academy 2023
 - Nahdhiyah ([@sweetNana](https://github.com/sweetNana))
 - Firah Mufiidah Hidayat ([@firahmhh](https://github.com/firahmhh))
 - Jelita M ([@jelitamantika](https://github.com/jelitamantika))
+- Axel R ([@axlrxlr](https://github.com/axlrxlr))
 - Mus'ab Ibrahim ([@musabIAM](https://github.com/musabIAM))
 - Nataniaa ([@nataniaa](https://github.com/nataniaa))
 - Wibi Anto ([@WibiAnto](https://github.com/WibiAnto))
