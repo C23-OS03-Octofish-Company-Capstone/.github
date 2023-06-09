@@ -10,8 +10,8 @@ Demo Video : https://bit.ly/DemoSellerApp
 - **Fish Price Prediction:** Utilizes machine learning algorithms to predict fish prices based on various factors such as fish type and market demand.
 - **Gill and Eye Freshness Detection:** Utilizes computer vision techniques to analyze the freshness of fish by examining the condition of gills and eyes, providing assurance to customers.
 - **Notification:** Sends notifications to sellers regarding order updates, payment confirmations, and delivery status.
-- **Product Management:** Allows fish sellers to efficiently manage their inventory, including adding new fish products, editing existing ones, and removing products that are out of stock.
-- **Latest Fish Sale News:** provides users with the latest news and updates related to fish sales, such as new fish species availability, market trends, and promotional offers.
+- **Fish Inventory Management:** Allows fish sellers to efficiently manage their inventory, including adding new fish products, editing existing ones, and removing products that are out of stock.
+- **Fish Market News:** provides users with the latest news and updates related to fish sales, such as new fish species availability, market trends, and promotional offers.
 
 ## Technologies Used
 
