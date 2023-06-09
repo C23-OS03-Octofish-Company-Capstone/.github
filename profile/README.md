@@ -2,8 +2,8 @@
 
 Welcome to the Octofish (C23-OS03 team internal name) repository, a capstone project from Bangkit Academy 2023 that aims to develop a modern and efficient fish selling application. This application is designed to make it easier for fish sellers to sell their fish.
 
-Demo Video : 
-https://drive.google.com/file/d/1m_0joQ956gp_y2FhEzuqaWka5iWA3BdK/view?usp=sharing
+Demo Video : https://bit.ly/DemoSellerApp
+Presentation : https://bit.ly/PresentationSellerApp
 
 ## Key Features
 
