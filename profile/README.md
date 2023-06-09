@@ -4,8 +4,6 @@ Welcome to the Octofish (C23-OS03 team internal name) repository, a capstone pro
 
 Demo Video : https://bit.ly/DemoSellerApp
 
-Presentation : https://bit.ly/PresentationSellerApp
-
 ## Key Features
 
 - **Seller Dashboard:** A dedicated dashboard for fish sellers to manage their store, view sales analytics, and track orders.
