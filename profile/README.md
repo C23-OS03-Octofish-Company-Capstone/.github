@@ -40,7 +40,7 @@ The Octofish development team consists of participants from Bangkit Academy 2023
 - Jelita M ([@jelitamantika](https://github.com/jelitamantika))
 - Axel R ([@axlrxlr](https://github.com/axlrxlr))
 - Mus'ab Ibrahim ([@musabIAM](https://github.com/musabIAM))
-- Nataniaa ([@nataniaa](https://github.com/nataniaa))
+- Natania Agustin ([@nataniaa](https://github.com/nataniaa))
 - Wibi Anto ([@WibiAnto](https://github.com/WibiAnto))
 
 
